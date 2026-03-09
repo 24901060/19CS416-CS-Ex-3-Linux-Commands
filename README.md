@@ -1,9 +1,4 @@
 # Ex-03-Linux-Commands
-
-## Name: BHARANI KUMAR S
-## Reg. No.: 212224230035
-
-
 ## Aim:
 
 To study the execution of various Linux operating system commands.
@@ -27,6 +22,7 @@ The ls command is used to display a list of content of a directory.
  Syntax: ls
  
 ![Screenshot from 2025-03-11 20-25-11](https://github.com/user-attachments/assets/55aac873-2a3e-4b66-b57b-c2e740fe2628)
+
 
 
 ### 2)	pwd Command

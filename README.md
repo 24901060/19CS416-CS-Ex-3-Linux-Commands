@@ -1,4 +1,9 @@
 # Ex-03-Linux-Commands
+
+## Name: PRAVEEN S
+## Reg. No.: 212224230206
+
+
 ## Aim:
 
 To study the execution of various Linux operating system commands.
